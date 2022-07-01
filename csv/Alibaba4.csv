@@ -1,0 +1,253 @@
+id
+Cloud Providers
+Cloud Providers.Alibaba
+Cloud Providers.Alibaba.Elastic Computing
+Cloud Providers.Alibaba.Elastic Computing.Cloud Server
+Cloud Providers.Alibaba.Elastic Computing.Cloud Server.Elastic Compute Service
+Cloud Providers.Alibaba.Elastic Computing.Cloud Server.Simple Application Server
+Cloud Providers.Alibaba.Elastic Computing.Cloud Server.Dedicated Host
+Cloud Providers.Alibaba.Elastic Computing.Cloud Server.Compute Nest
+Cloud Providers.Alibaba.Elastic Computing.Cloud Server.ECS Bare Metal Instance
+Cloud Providers.Alibaba.Elastic Computing.Cloud Server.Elastic GPU Service
+Cloud Providers.Alibaba.Elastic Computing.Cloud Server.Elastic Desktop Service
+Cloud Providers.Alibaba.Elastic Computing.HPC
+Cloud Providers.Alibaba.Elastic Computing.HPC.Super Computing Cluster
+Cloud Providers.Alibaba.Elastic Computing.HPC.Batch Compute
+Cloud Providers.Alibaba.Elastic Computing.HPC.Elastic High Performance Computing
+Cloud Providers.Alibaba.Elastic Computing.Container Service
+Cloud Providers.Alibaba.Elastic Computing.Container Service.Elastic Container Instance
+Cloud Providers.Alibaba.Elastic Computing.Container Service.Container Registry
+Cloud Providers.Alibaba.Elastic Computing.Container Service.Container Service for Kubernetes
+Cloud Providers.Alibaba.Elastic Computing.Container Service.Alibaba Cloud Service Mesh
+Cloud Providers.Alibaba.Elastic Computing.Elastic Orchestration
+Cloud Providers.Alibaba.Elastic Computing.Elastic Orchestration.Auto Scaling
+Cloud Providers.Alibaba.Elastic Computing.Elastic Orchestration.Operation Orchestration Service
+Cloud Providers.Alibaba.Elastic Computing.Elastic Orchestration.Resource Orchestration Service
+Cloud Providers.Alibaba.Elastic Computing.Serverless
+Cloud Providers.Alibaba.Elastic Computing.Serverless.Function Compute
+Cloud Providers.Alibaba.Elastic Computing.Serverless.Serverless Workflow
+Cloud Providers.Alibaba.Elastic Computing.Serverless.Serverless Application Egnine
+Cloud Providers.Alibaba.Networking & CDN
+Cloud Providers.Alibaba.Networking & CDN.Cloud Network
+Cloud Providers.Alibaba.Networking & CDN.Cloud Network.Virtual Private Cloud
+Cloud Providers.Alibaba.Networking & CDN.Cloud Network.Alibaba Cloud PrivateZone
+Cloud Providers.Alibaba.Networking & CDN.Cloud Network.NAT Gateway
+Cloud Providers.Alibaba.Networking & CDN.Cloud Network.Data Transfer Plan
+Cloud Providers.Alibaba.Networking & CDN.Cloud Network.PrivateLink
+Cloud Providers.Alibaba.Networking & CDN.Cloud Network.Server Load Balancer
+Cloud Providers.Alibaba.Networking & CDN.Cloud Network.Elastic IP Address
+Cloud Providers.Alibaba.Networking & CDN.Cloud Network.Global Traffic Manager
+Cloud Providers.Alibaba.Networking & CDN.Cross Region Network
+Cloud Providers.Alibaba.Networking & CDN.Cross Region Network.Cloud Enterprise Network
+Cloud Providers.Alibaba.Networking & CDN.Cross Region Network.Global Accelerator
+Cloud Providers.Alibaba.Networking & CDN.Hybrid Cloud Network
+Cloud Providers.Alibaba.Networking & CDN.Hybrid Cloud Network.VPN Gateway
+Cloud Providers.Alibaba.Networking & CDN.Hybrid Cloud Network.Express Connect
+Cloud Providers.Alibaba.Networking & CDN.Hybrid Cloud Network.Smart Access Gateway
+Cloud Providers.Alibaba.Networking & CDN.CDV and Edge
+Cloud Providers.Alibaba.Networking & CDN.CDV and Edge.Alibaba Cloud CDV
+Cloud Providers.Alibaba.Networking & CDN.CDV and Edge.Dynamic Content Delivery Neywork
+Cloud Providers.Alibaba.Networking & CDN.CDV and Edge.Secure Content Delivery
+Cloud Providers.Alibaba.Networking & CDN.CDV and Edge.Edge Node Service (ENS)
+Cloud Providers.Alibaba.Database
+Cloud Providers.Alibaba.Database.Relational Database
+Cloud Providers.Alibaba.Database.Relational Database.PolarDB
+Cloud Providers.Alibaba.Database.Relational Database.ApsaraDB RDS for MySQL
+Cloud Providers.Alibaba.Database.Relational Database.ApsaraDB for SQL Server
+Cloud Providers.Alibaba.Database.Relational Database.DBStack
+Cloud Providers.Alibaba.Database.Relational Database.PolarDB-X
+Cloud Providers.Alibaba.Database.Relational Database.ApsaraDB RDS for PostgreSQL
+Cloud Providers.Alibaba.Database.Relational Database.ApsaraDB RDS for MariaDB TX
+Cloud Providers.Alibaba.Database.Relational Database.ApsaraDB for OceanBase
+Cloud Providers.Alibaba.Database.Dedicated Cluster
+Cloud Providers.Alibaba.Database.Dedicated Cluster.ApsaraDB for MyBase
+Cloud Providers.Alibaba.Database.NoSQL Database
+Cloud Providers.Alibaba.Database.NoSQL Database.ApsaraDB for Redis
+Cloud Providers.Alibaba.Database.NoSQL Database.ApsaraDB for HBase
+Cloud Providers.Alibaba.Database.NoSQL Database.Time Series Database for InfluxDB
+Cloud Providers.Alibaba.Database.NoSQL Database.ApsaraDB for MongoDB
+Cloud Providers.Alibaba.Database.NoSQL Database.Time Series Database
+Cloud Providers.Alibaba.Database.NoSQL Database.Tablestore
+Cloud Providers.Alibaba.Database.Data Warehouse
+Cloud Providers.Alibaba.Database.Data Warehouse.AnalyticDB for MySQL
+Cloud Providers.Alibaba.Database.Data Warehouse.Data Lake Analytics
+Cloud Providers.Alibaba.Database.Data Warehouse.AnalyticDB for PostgreSQL
+Cloud Providers.Alibaba.Database.Data Warehouse.ApsaraDB for ClickHouse
+Cloud Providers.Alibaba.Database.Utility & Tools
+Cloud Providers.Alibaba.Database.Utility & Tools.Database Autonomy Service
+Cloud Providers.Alibaba.Database.Utility & Tools.Data Management
+Cloud Providers.Alibaba.Database.Utility & Tools.Database Backup
+Cloud Providers.Alibaba.Database.Utility & Tools.Data Transmition Service
+Cloud Providers.Alibaba.Storage
+Cloud Providers.Alibaba.Storage.Essential Storage Service
+Cloud Providers.Alibaba.Storage.Essential Storage Service.Elastic Block Storage
+Cloud Providers.Alibaba.Storage.Essential Storage Service.Apsara File Storage NAS
+Cloud Providers.Alibaba.Storage.Essential Storage Service.Storage Capacity Unit
+Cloud Providers.Alibaba.Storage.Essential Storage Service.Object Storage Service
+Cloud Providers.Alibaba.Storage.Essential Storage Service.Tablestore
+Cloud Providers.Alibaba.Storage.Storage Data Service
+Cloud Providers.Alibaba.Storage.Storage Data Service.Log Service
+Cloud Providers.Alibaba.Storage.Storage Data Service.Hybrid Backup Recovery
+Cloud Providers.Alibaba.Storage.Data Transport
+Cloud Providers.Alibaba.Storage.Data Transport.Data Transport
+Cloud Providers.Alibaba.Storage.Hybrid Cloud Storage
+Cloud Providers.Alibaba.Storage.Hybrid Cloud Storage.Hybrid Cloud Storage
+Cloud Providers.Alibaba.Storage.Hybrid Cloud Storage.Hybrid Cloud Distributed Storage
+Cloud Providers.Alibaba.Storage.Hybrid Cloud Storage.Cloud Storage Gateway
+Cloud Providers.Alibaba.Security
+Cloud Providers.Alibaba.Security.Cloud Security
+Cloud Providers.Alibaba.Security.Cloud Security.Anti-DDoS
+Cloud Providers.Alibaba.Security.Cloud Security.Secure Content Delivery
+Cloud Providers.Alibaba.Security.Cloud Security.SSL Certificates ServiceCloud Config
+Cloud Providers.Alibaba.Security.Cloud Security.Web Application Firewall
+Cloud Providers.Alibaba.Security.Cloud Security.Security Center
+Cloud Providers.Alibaba.Security.Cloud Security.Cloud Firewall
+Cloud Providers.Alibaba.Security.Cloud Security.Bastionhost
+Cloud Providers.Alibaba.Security.Cloud Security.ActionTrail
+Cloud Providers.Alibaba.Security.Cloud Security.Cloud Congig
+Cloud Providers.Alibaba.Security.Identity Management
+Cloud Providers.Alibaba.Security.Identity Management.Resource Access Management
+Cloud Providers.Alibaba.Security.Identity Management.IDaaS
+Cloud Providers.Alibaba.Security.Data Security
+Cloud Providers.Alibaba.Security.Data Security.Sensitive Data Discovery & Protection
+Cloud Providers.Alibaba.Security.Data Security.Key Management Service
+Cloud Providers.Alibaba.Security.Data Security.Data Encryption Service
+Cloud Providers.Alibaba.Security.Business Security
+Cloud Providers.Alibaba.Security.Business Security.Content Moderation
+Cloud Providers.Alibaba.Security.Business Security.Anti-Bot Service
+Cloud Providers.Alibaba.Security.Business Security.Fraud Detection
+Cloud Providers.Alibaba.Security.Business Security.GameShield
+Cloud Providers.Alibaba.Security.Security Service
+Cloud Providers.Alibaba.Security.Security Service.Managed Security Service
+Cloud Providers.Alibaba.Security.Security Service.Penetration Test
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Corporate Office Collaboration
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Corporate Office Collaboration.Alibaba Mail
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Corporate Office Collaboration.Dedicated DingTalk
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Corporate Office Collaboration.Robotic Process Automation
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Corporate Office Collaboration.YiDA
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Domains & Website
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Domains & Website.Domains
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Domains & Website.Alibaba Cloud DNS
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Domains & Website.GoChina ICP Filing Assistant
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Domains & Website.WHOIS
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Application Services
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Application Services.ZOLOZ Real ID
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Application Services.Alibaba eKYC
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Application Services.API Gateway
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Application Services.CloudESL
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Application Services.ZOLOZ Smart AML
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Application Services.Cloud Quotation
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Application Services.Direct Mail
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Application Services.CloudAP
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Blockchain
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Blockchain.Blockchain as a Service
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Cloud Communication
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Cloud Communication.Short Message Service
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Intelligent Services
+Cloud Providers.Alibaba.Enterprise Applications & Cloud Communication.Intelligent Services.Intelligent Services Robot
+Cloud Providers.Alibaba.Analytics
+Cloud Providers.Alibaba.Analytics.Data Computing
+Cloud Providers.Alibaba.Analytics.Data Computing.MaxCompute
+Cloud Providers.Alibaba.Analytics.Data Computing.E-MapReduce
+Cloud Providers.Alibaba.Analytics.Data Computing.Data Lake Formation
+Cloud Providers.Alibaba.Analytics.Data Computing.Log Service
+Cloud Providers.Alibaba.Analytics.Data Computing.Hologres
+Cloud Providers.Alibaba.Analytics.Data Computing.Elasticsearch
+Cloud Providers.Alibaba.Analytics.Data Computing.Realtime Compute
+Cloud Providers.Alibaba.Analytics.Data Development
+Cloud Providers.Alibaba.Analytics.Data Development.DataWorks
+Cloud Providers.Alibaba.Analytics.Data Development.Dataphin
+Cloud Providers.Alibaba.Analytics.Big Data Application and Visualisation
+Cloud Providers.Alibaba.Analytics.Big Data Application and Visualisation.DataV
+Cloud Providers.Alibaba.Analytics.Big Data Application and Visualisation.Quick BI
+Cloud Providers.Alibaba.Analytics.Data Search and Analytics
+Cloud Providers.Alibaba.Analytics.Data Search and Analytics.Data Integration
+Cloud Providers.Alibaba.Analytics.Data Search and Analytics.Data Hub
+Cloud Providers.Alibaba.Analytics.Intelligent Search and Recommendation
+Cloud Providers.Alibaba.Analytics.Intelligent Search and Recommendation.OpenSearch
+Cloud Providers.Alibaba.Analytics.Intelligent Search and Recommendation.AIRec
+Cloud Providers.Alibaba.Artificial Intelligence
+Cloud Providers.Alibaba.Artificial Intelligence.AI
+Cloud Providers.Alibaba.Artificial Intelligence.AI.Machine Learning Platform for AI
+Cloud Providers.Alibaba.Artificial Intelligence.AI.Machine Translation
+Cloud Providers.Alibaba.Artificial Intelligence.AI.Image Search
+Cloud Providers.Alibaba.Artificial Intelligence.AI.Intelligent Speech Interaction
+Cloud Providers.Alibaba.Media Services
+Cloud Providers.Alibaba.Media Services.Media Services
+Cloud Providers.Alibaba.Media Services.Media Services.ApsaraVideo Live
+Cloud Providers.Alibaba.Media Services.Media Services.ApsaraVideo VOD
+Cloud Providers.Alibaba.Media Services.Media Technology
+Cloud Providers.Alibaba.Media Services.Media Technology.ApsaraVideo for Media Processing
+Cloud Providers.Alibaba.Hybrid Cloud
+Cloud Providers.Alibaba.Hybrid Cloud.Private Cloud
+Cloud Providers.Alibaba.Hybrid Cloud.Private Cloud.Apsara Stack
+Cloud Providers.Alibaba.Hybrid Cloud.Private Cloud.Alibaba CLoud ZStack
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Application
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Application.Container Service for Kubernetes
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Application.Enterprise Distributed Application Service
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Network
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Network.VPN Gateway
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Network.Express Connect
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Network.Smart Access Gateway
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Data Connectivity
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Data Connectivity.Hybrid Backup Recovery
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Data Connectivity.Data Transmission Service
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Data Connectivity.Data Management
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Data Connectivity.Hybri Cloud Distributed Storage
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Data Connectivity.Hybrid Cloud Storage
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Data Connectivity.Database Backup
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Data Connectivity.Database Autonomy Service
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Security
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Security.Security Center
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Security.AntiDDoS
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Security.Penetration Test
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Security.Web Application Firewall
+Cloud Providers.Alibaba.Hybrid Cloud.Hybrid Cloud Security.Cloud Firewall
+Cloud Providers.Alibaba.Container & Middleware
+Cloud Providers.Alibaba.Container & Middleware.Container
+Cloud Providers.Alibaba.Container & Middleware.Container.Elastic Container Instance
+Cloud Providers.Alibaba.Container & Middleware.Container.Container Registry
+Cloud Providers.Alibaba.Container & Middleware.Container.Container Service for Kubernetes
+Cloud Providers.Alibaba.Container & Middleware.Container.Alibaba Cloud Service Mesh
+Cloud Providers.Alibaba.Container & Middleware.Micro Services
+Cloud Providers.Alibaba.Container & Middleware.Micro Services.Enterprise Distributed Application Service
+Cloud Providers.Alibaba.Container & Middleware.Micro Services.Microservices Engine
+Cloud Providers.Alibaba.Container & Middleware.Micro Services.Application Configuration Management
+Cloud Providers.Alibaba.Container & Middleware.Message Queue
+Cloud Providers.Alibaba.Container & Middleware.Message Queue.AlibabaMQ for Apache RocketMQ
+Cloud Providers.Alibaba.Container & Middleware.Message Queue.Message Queue for Apache Kafka
+Cloud Providers.Alibaba.Container & Middleware.Message Queue.AliwareMQ for IoT
+Cloud Providers.Alibaba.Container & Middleware.Message Queue.EventBridge
+Cloud Providers.Alibaba.Container & Middleware.Message Queue.Message Queue for RabbitMQ
+Cloud Providers.Alibaba.Container & Middleware.Message Queue.Message Service
+Cloud Providers.Alibaba.Container & Middleware.Serverless
+Cloud Providers.Alibaba.Container & Middleware.Serverless.Function Compute
+Cloud Providers.Alibaba.Container & Middleware.Serverless.Serverless Workflow
+Cloud Providers.Alibaba.Container & Middleware.Applications
+Cloud Providers.Alibaba.Container & Middleware.Applications.Application Real-Time Monitoring Service
+Cloud Providers.Alibaba.Container & Middleware.Applications.Tracing Analysis
+Cloud Providers.Alibaba.Container & Middleware.Applications.Application High Availability
+Cloud Providers.Alibaba.Developer Settings
+Cloud Providers.Alibaba.Developer Settings.Developer Services
+Cloud Providers.Alibaba.Developer Settings.Developer Services.Mobile Testing
+Cloud Providers.Alibaba.Developer Settings.Developer Services.Application Real-Time Monitoring Service
+Cloud Providers.Alibaba.Developer Settings.Developer Services.Application High Availability Service
+Cloud Providers.Alibaba.Developer Settings.Developer Services.Tracing Analysis
+Cloud Providers.Alibaba.Developer Settings.Developer Services.mPaaS
+Cloud Providers.Alibaba.Developer Settings.Developer Services.CloudMonitor
+Cloud Providers.Alibaba.Developer Settings.Developer Services.Log Service
+Cloud Providers.Alibaba.Developer Settings.Warehouse Service
+Cloud Providers.Alibaba.Developer Settings.Warehouse Service.Container Registry
+Cloud Providers.Alibaba.Developer Settings.API & SDK
+Cloud Providers.Alibaba.Developer Settings.API & SDK.OpenAPI Explorer
+Cloud Providers.Alibaba.Developer Settings.API & SDK.Cloud Shell
+Cloud Providers.Alibaba.Developer Settings.Corporate IT Governance
+Cloud Providers.Alibaba.Developer Settings.Corporate IT Governance.Resource Management
+Cloud Providers.Alibaba.Developer Settings.Corporate IT Governance.ActionTrail
+Cloud Providers.Alibaba.Developer Settings.Corporate IT Governance.Resource Access Management
+Cloud Providers.Alibaba.Developer Settings.Corporate IT Governance.Cloud Config
+Cloud Providers.Alibaba.Internet of Things
+Cloud Providers.Alibaba.Internet of Things.IoT
+Cloud Providers.Alibaba.Internet of Things.IoT.IoT Platform
+Cloud Providers.Alibaba.Internet of Things.IoT.Link IoT Edge

@@ -1,0 +1,141 @@
+id
+Cloud Providers
+Cloud Providers.Oracle
+Cloud Providers.Oracle.Analytics and BI
+Cloud Providers.Oracle.Analytics and BI.Oracle Analytics Platform
+Cloud Providers.Oracle.Analytics and BI.Oracle Fusion ERP Analytics
+Cloud Providers.Oracle.Analytics and BI.Oracle Fusion HCM Analytics
+Cloud Providers.Oracle.Analytics and BI.Oracle Fusion SCM Analytics
+Cloud Providers.Oracle.Analytics and BI.Oracle Analytics mode
+Cloud Providers.Oracle.Compliance
+Cloud Providers.Oracle.Compliance.Compliance Advisories
+Cloud Providers.Oracle.Compliance.Compliance Attestations
+Cloud Providers.Oracle.Compliance.Compliance Documents Service
+Cloud Providers.Oracle.Compliance.Corporate Security
+Cloud Providers.Oracle.Compliance.Privacy
+Cloud Providers.Oracle.Compute
+Cloud Providers.Oracle.Compute.Virtual Machines
+Cloud Providers.Oracle.Compute.Bare Metal Servers
+Cloud Providers.Oracle.Compute.GPU-Accelerated Compute
+Cloud Providers.Oracle.Compute.HPC Compute
+Cloud Providers.Oracle.Compute.Arm-Based Compute
+Cloud Providers.Oracle.Compute.Container Engine for Kubernetes (OKE)
+Cloud Providers.Oracle.Compute.Oracle Functions
+Cloud Providers.Oracle.Compute.VMware
+Cloud Providers.Oracle.Containers and Functions
+Cloud Providers.Oracle.Containers and Functions.Container Engine for Kubernetes (OKE)
+Cloud Providers.Oracle.Containers and Functions.Container Registry
+Cloud Providers.Oracle.Containers and Functions.Oracle Functions
+Cloud Providers.Oracle.Data Lakehouse
+Cloud Providers.Oracle.Data Lakehouse.Object Storage
+Cloud Providers.Oracle.Data Lakehouse.Big Data Service
+Cloud Providers.Oracle.Data Lakehouse.Data Catalog
+Cloud Providers.Oracle.Data Lakehouse.Data Flow
+Cloud Providers.Oracle.Data Lakehouse.Autonomous Data Warehouse
+Cloud Providers.Oracle.Data Lakehouse.MySQL HeatWave
+Cloud Providers.Oracle.Data Lakehouse.Data Integration
+Cloud Providers.Oracle.Data Lakehouse.Streaming
+Cloud Providers.Oracle.Data Lakehouse.GoldenGate
+Cloud Providers.Oracle.Data Lakehouse.Data Integrator
+Cloud Providers.Oracle.Database Services
+Cloud Providers.Oracle.Database Services.Autonomous Database
+Cloud Providers.Oracle.Database Services.Autonomous Data Warehouse
+Cloud Providers.Oracle.Database Services.Autonomous Transaction Processing
+Cloud Providers.Oracle.Database Services.Autonomous JSON Database
+Cloud Providers.Oracle.Database Services.Exadata Database Service
+Cloud Providers.Oracle.Database Services.Database Cloud Service
+Cloud Providers.Oracle.Database Services.Exadata Cloud@Customer
+Cloud Providers.Oracle.Database Services.Autonomous Database on Exadata Cloud@Customer
+Cloud Providers.Oracle.Database Services.MySQL HeatWave
+Cloud Providers.Oracle.Database Services.NoSQL
+Cloud Providers.Oracle.Database Tools
+Cloud Providers.Oracle.Database Tools.Data Safe
+Cloud Providers.Oracle.Database Tools.GoldenGate
+Cloud Providers.Oracle.Database Tools.Operations Insights
+Cloud Providers.Oracle.Database Tools.Database Management
+Cloud Providers.Oracle.Database Tools.Database Migration
+Cloud Providers.Oracle.Database Tools.Data Integrator
+Cloud Providers.Oracle.Developer Services
+Cloud Providers.Oracle.Developer Services.Application Development
+Cloud Providers.Oracle.Developer Services.Resource Manager
+Cloud Providers.Oracle.Developer Services.API Gateway
+Cloud Providers.Oracle.Developer Services.API Management
+Cloud Providers.Oracle.Developer Services.Container Engine for Kubernetes (OKE)
+Cloud Providers.Oracle.Developer Services.Functions
+Cloud Providers.Oracle.Developer Services.Events
+Cloud Providers.Oracle.Developer Services.Notifications
+Cloud Providers.Oracle.Developer Services.DevOps
+Cloud Providers.Oracle.Developer Services.Application Express (APEX)
+Cloud Providers.Oracle.Developer Services.Digital Assistant
+Cloud Providers.Oracle.Developer Services.Content Management
+Cloud Providers.Oracle.Developer Services.Blockchain Platform
+Cloud Providers.Oracle.Hybrid Cloud
+Cloud Providers.Oracle.Hybrid Cloud.Dedicated Region Cloud@Customer
+Cloud Providers.Oracle.Hybrid Cloud.Exadata Cloud@Customer
+Cloud Providers.Oracle.Hybrid Cloud.Autonomous Database on Exadata Cloud@Customer
+Cloud Providers.Oracle.Hybrid Cloud.VMWare Solution
+Cloud Providers.Oracle.Hybrid Cloud.Roving Edge Infrastructure
+Cloud Providers.Oracle.Hybrid Cloud.Azure Interconnect
+Cloud Providers.Oracle.Integration
+Cloud Providers.Oracle.Integration.Application Integration
+Cloud Providers.Oracle.Integration.API Management
+Cloud Providers.Oracle.Integration.Oracle SOA
+Cloud Providers.Oracle.Integration.Data Integration
+Cloud Providers.Oracle.Integration.GoldenGate
+Cloud Providers.Oracle.Integration.Streaming
+Cloud Providers.Oracle.Integration.Events
+Cloud Providers.Oracle.Machine Learning and AI
+Cloud Providers.Oracle.Machine Learning and AI.AI Services
+Cloud Providers.Oracle.Machine Learning and AI.Anomaly Detection
+Cloud Providers.Oracle.Machine Learning and AI.Data Science
+Cloud Providers.Oracle.Machine Learning and AI.Digital Assistant
+Cloud Providers.Oracle.Machine Learning and AI.In-Database Machine Learning
+Cloud Providers.Oracle.Machine Learning and AI.Language
+Cloud Providers.Oracle.Networking
+Cloud Providers.Oracle.Networking.Virtual Cloud Networks
+Cloud Providers.Oracle.Networking.Networking Gateways
+Cloud Providers.Oracle.Networking.Load Balancers
+Cloud Providers.Oracle.Networking.Site-to-Site VPN (IPSec)
+Cloud Providers.Oracle.Networking.Client-to-Site VPN (Client VPN)
+Cloud Providers.Oracle.Networking.FastConnect
+Cloud Providers.Oracle.Networking.Customer-Premises Equipment
+Cloud Providers.Oracle.Networking.DNS Management
+Cloud Providers.Oracle.Observability and Management
+Cloud Providers.Oracle.Observability and Management.Logging
+Cloud Providers.Oracle.Observability and Management.Logging Analytics
+Cloud Providers.Oracle.Observability and Management.Monitoring
+Cloud Providers.Oracle.Observability and Management.Notifications
+Cloud Providers.Oracle.Observability and Management.Application Performance Monitoring
+Cloud Providers.Oracle.Observability and Management.Java Management Service
+Cloud Providers.Oracle.Observability and Management.Database Management
+Cloud Providers.Oracle.Observability and Management.Resource Manager
+Cloud Providers.Oracle.Observability and Management.Service Connector Hub
+Cloud Providers.Oracle.Observability and Management.Operations Insights
+Cloud Providers.Oracle.SaaS Applications
+Cloud Providers.Oracle.SaaS Applications.Enterprise Resourec Planning
+Cloud Providers.Oracle.SaaS Applications.Enterprise Performance Management
+Cloud Providers.Oracle.SaaS Applications.Supply Chain Management
+Cloud Providers.Oracle.SaaS Applications.Human Capital Management
+Cloud Providers.Oracle.SaaS Applications.Advertising and Customer Experience
+Cloud Providers.Oracle.SaaS Applications.Industry Applications
+Cloud Providers.Oracle.Security
+Cloud Providers.Oracle.Security.Identity and Access Management
+Cloud Providers.Oracle.Security.Security Zones
+Cloud Providers.Oracle.Security.Certificates
+Cloud Providers.Oracle.Security.Cloud Guard
+Cloud Providers.Oracle.Security.Vulnerability Scanning
+Cloud Providers.Oracle.Security.Vault
+Cloud Providers.Oracle.Security.Bastion
+Cloud Providers.Oracle.Security.Web Application Firewall
+Cloud Providers.Oracle.Security.Threat Intelligence
+Cloud Providers.Oracle.Security.Autonomous Linux
+Cloud Providers.Oracle.Security.Database Security
+Cloud Providers.Oracle.Security.Cloud Access Security Broker (CASB)
+Cloud Providers.Oracle.Security.Data Safe
+Cloud Providers.Oracle.Storage
+Cloud Providers.Oracle.Storage.Block Volumes
+Cloud Providers.Oracle.Storage.File Storage
+Cloud Providers.Oracle.Storage.Object Storate
+Cloud Providers.Oracle.Storage.Achive Storage
+Cloud Providers.Oracle.Storage.Data Transfer Service
+Cloud Providers.Oracle.Storage.Storage Gateway

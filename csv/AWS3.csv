@@ -1,0 +1,160 @@
+id
+Cloud Providers
+Cloud Providers.AWS
+Cloud Providers.AWS.Analytics
+Cloud Providers.AWS.Analytics.Athena
+Cloud Providers.AWS.Analytics.CloudSearch
+Cloud Providers.AWS.Analytics.EMR
+Cloud Providers.AWS.Analytics.FinSpace
+Cloud Providers.AWS.Analytics.Kinesis
+Cloud Providers.AWS.Analytics.Managed Streaming for Apache Kafka
+Cloud Providers.AWS.Analytics.OpenSearch Service
+Cloud Providers.AWS.Analytics.QuickSight
+Cloud Providers.AWS.Analytics.Redshift
+Cloud Providers.AWS.Analytics.Data Exchange
+Cloud Providers.AWS.Analytics.Data Pipeline
+Cloud Providers.AWS.Analytics.Glue
+Cloud Providers.AWS.Analytics.Lake Formation
+Cloud Providers.AWS.Application Integration
+Cloud Providers.AWS.Application Integration.AppFlow
+Cloud Providers.AWS.Application Integration.EventBridge
+Cloud Providers.AWS.Application Integration.Managed Workflows for Apache Kafka
+Cloud Providers.AWS.Application Integration.MQ
+Cloud Providers.AWS.Application Integration.Simple Notification Service
+Cloud Providers.AWS.Application Integration.Simple Queue Service
+Cloud Providers.AWS.Application Integration.Step Functions
+Cloud Providers.AWS.Blockchain
+Cloud Providers.AWS.Blockchain.Managed Blockchain
+Cloud Providers.AWS.Blockchain.Quantum Ledger Database
+Cloud Providers.AWS.Cloud Financial Management
+Cloud Providers.AWS.Cloud Financial Management.Budgets
+Cloud Providers.AWS.Cloud Financial Management.Cost and Usage Report
+Cloud Providers.AWS.Cloud Financial Management.Cost Explorer
+Cloud Providers.AWS.Cloud Financial Management.Reserved Instance Reporting
+Cloud Providers.AWS.Cloud Financial Management.Savings Plans
+Cloud Providers.AWS.Compute
+Cloud Providers.AWS.Compute.EC2
+Cloud Providers.AWS.Compute.EC2 Auto Scalling
+Cloud Providers.AWS.Compute.Elastic Container Service
+Cloud Providers.AWS.Compute.Elastic Kubernetes Service
+Cloud Providers.AWS.Compute.Lightsall
+Cloud Providers.AWS.Compute.App Runner
+Cloud Providers.AWS.Compute.Auto Scalling
+Cloud Providers.AWS.Compute.Batch
+Cloud Providers.AWS.Compute.Compute Optimiser
+Cloud Providers.AWS.Compute.Elastic Beanstalk
+Cloud Providers.AWS.Compute.Fargate
+Cloud Providers.AWS.Compute.Lambda
+Cloud Providers.AWS.Compute.Outposts
+Cloud Providers.AWS.Compute.Serverless Application Repository
+Cloud Providers.AWS.Compute.Wavelength
+Cloud Providers.AWS.Compute.VMware Cloud
+Cloud Providers.AWS.Containers
+Cloud Providers.AWS.Containers.Elastic Container Registry
+Cloud Providers.AWS.Containers.Elastic Container Service
+Cloud Providers.AWS.Containers.Elasic Kubernetes Service
+Cloud Providers.AWS.Containers.App2Container
+Cloud Providers.AWS.Containers.Copilot
+Cloud Providers.AWS.Containers.Fargate
+Cloud Providers.AWS.Containers.Red Hat OpenShift Service
+Cloud Providers.AWS.Database
+Cloud Providers.AWS.Database.Aurora
+Cloud Providers.AWS.Database.DocumentDB
+Cloud Providers.AWS.Database.DynamoDB
+Cloud Providers.AWS.Database.ElastiCache
+Cloud Providers.AWS.Database.Keyspaces for Apache Cassandra
+Cloud Providers.AWS.Database.MemoryDB for Redis
+Cloud Providers.AWS.Database.Neptune
+Cloud Providers.AWS.Database.RDS
+Cloud Providers.AWS.Database.RDS on VMware
+Cloud Providers.AWS.Database.Redshift
+Cloud Providers.AWS.Database.Timestream
+Cloud Providers.AWS.Developers Tools
+Cloud Providers.AWS.Developers Tools.CodeGuru
+Cloud Providers.AWS.Developers Tools.Corretto
+Cloud Providers.AWS.Developers Tools.Cloud Control API
+Cloud Providers.AWS.Developers Tools.Cloud Development Kit
+Cloud Providers.AWS.Developers Tools.Cloud9
+Cloud Providers.AWS.Developers Tools.CloudShell
+Cloud Providers.AWS.Developers Tools.CodeARtifact
+Cloud Providers.AWS.Developers Tools.CodeBuild
+Cloud Providers.AWS.Developers Tools.CodeCommit
+Cloud Providers.AWS.Developers Tools.CodeDeploy
+Cloud Providers.AWS.Developers Tools.CodePipeline
+Cloud Providers.AWS.Developers Tools.CodeStar
+Cloud Providers.AWS.Developers Tools.Command Line Interface
+Cloud Providers.AWS.Developers Tools.Device Farm
+Cloud Providers.AWS.Developers Tools.Fault Injection Simulator
+Cloud Providers.AWS.Developers Tools.Tools & SDKs
+Cloud Providers.AWS.Developers Tools.X-Ray
+Cloud Providers.AWS.End User Computing
+Cloud Providers.AWS.End User Computing.AppStream
+Cloud Providers.AWS.End User Computing.WorkLink
+Cloud Providers.AWS.End User Computing.WorkSpaces
+Cloud Providers.AWS.Front-End Web & Mobile
+Cloud Providers.AWS.Front-End Web & Mobile.API Gateway
+Cloud Providers.AWS.Front-End Web & Mobile.Location Service
+Cloud Providers.AWS.Front-End Web & Mobile.Pinpoint
+Cloud Providers.AWS.Front-End Web & Mobile.Simple Email Service
+Cloud Providers.AWS.Front-End Web & Mobile.Amplify
+Cloud Providers.AWS.Front-End Web & Mobile.AppSync
+Cloud Providers.AWS.Front-End Web & Mobile.Device Farm
+Cloud Providers.AWS.Internet of Things
+Cloud Providers.AWS.Internet of Things.FreeRTOS
+Cloud Providers.AWS.Internet of Things.1-Click
+Cloud Providers.AWS.Internet of Things.Analytics
+Cloud Providers.AWS.Internet of Things.Button
+Cloud Providers.AWS.Internet of Things.Core
+Cloud Providers.AWS.Internet of Things.Devide Defender
+Cloud Providers.AWS.Internet of Things.Device Management
+Cloud Providers.AWS.Internet of Things.EduKit
+Cloud Providers.AWS.Internet of Things.Events
+Cloud Providers.AWS.Internet of Things.FleetWise
+Cloud Providers.AWS.Internet of Things.Greengrass
+Cloud Providers.AWS.Internet of Things.RoboRubber
+Cloud Providers.AWS.Internet of Things.SiteWise
+Cloud Providers.AWS.Internet of Things.Things Graph
+Cloud Providers.AWS.Internet of Things.TwinMaker
+Cloud Providers.AWS.Internet of Things.Partner Device Catalog
+Cloud Providers.AWS.Machine Learning
+Cloud Providers.AWS.Machine Learning.Augmented AI
+Cloud Providers.AWS.Machine Learning.CodeGuru
+Cloud Providers.AWS.Machine Learning.Comprehend
+Cloud Providers.AWS.Machine Learning.DevOps Guru
+Cloud Providers.AWS.Machine Learning.Elastic Inference
+Cloud Providers.AWS.Machine Learning.Forecast
+Cloud Providers.AWS.Machine Learning.Fraud Detector
+Cloud Providers.AWS.Machine Learning.HealthLake
+Cloud Providers.AWS.Machine Learning.Kendra
+Cloud Providers.AWS.Machine Learning.Lex
+Cloud Providers.AWS.Machine Learning.Lookout for Equipment
+Cloud Providers.AWS.Machine Learning.Lookout for Metrics
+Cloud Providers.AWS.Machine Learning.Lookout for Vision
+Cloud Providers.AWS.Machine Learning.Monitron
+Cloud Providers.AWS.Machine Learning.Personalise
+Cloud Providers.AWS.Machine Learning.Polly
+Cloud Providers.AWS.Machine Learning.Rekognition
+Cloud Providers.AWS.Machine Learning.SageMaker
+Cloud Providers.AWS.Machine Learning.SageMaker Ground Truth
+Cloud Providers.AWS.Machine Learning.Textract
+Cloud Providers.AWS.Machine Learning.Transcribe
+Cloud Providers.AWS.Machine Learning.Translate
+Cloud Providers.AWS.Machine Learning.Apache MXNet on AWS
+Cloud Providers.AWS.Machine Learning.Deep Learning AMIs
+Cloud Providers.AWS.Machine Learning.Deep Learning Containers
+Cloud Providers.AWS.Machine Learning.DeepComposer
+Cloud Providers.AWS.Machine Learning.DeepLens
+Cloud Providers.AWS.Machine Learning.DeepRacer
+Cloud Providers.AWS.Machine Learning.Inferentia
+Cloud Providers.AWS.Machine Learning.Panorama
+Cloud Providers.AWS.Machine Learning.PyTorch
+Cloud Providers.AWS.Machine Learning.Tensorflow
+Cloud Providers.AWS.Management & Governance
+Cloud Providers.AWS.Media Services
+Cloud Providers.AWS.Migration & Transfer
+Cloud Providers.AWS.Networking & Content Delivery
+Cloud Providers.AWS.Quantum Technologies
+Cloud Providers.AWS.Robotics
+Cloud Providers.AWS.Satellite
+Cloud Providers.AWS.Security & Identity & Compliance
+Cloud Providers.AWS.Storage
