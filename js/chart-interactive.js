@@ -18,7 +18,7 @@ window.onload = function start() {
 };
 
 function handleClick(myRadio) {
-    file = "/csv/" + myRadio.value + ".csv";
+    file = "./csv/" + myRadio.value + ".csv";
 
     $(document).ready(function () {
         $("svg").html("");
