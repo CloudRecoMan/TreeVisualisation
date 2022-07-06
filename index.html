@@ -1,22 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
-<body>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1"> 
     <meta charset="utf-8">
     <link rel="stylesheet" href="./css/styles.css">
     <link rel="shortcut icon" href="#">
     <link rel="icon" href="#">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
     <title>Interactive Graph</title>
 </head>
+<body>
 
 <form class = "treecluster">
     <label><input type="radio" name="mode" value="cluster" checked> Dendrogram</label>
     <label><input type="radio" name="mode" value="tree"> Tree</label>
 </form>
 
-<br><br><br>
-
+<br><br>
 <div class="providers">
     <form>
         <label><input type="radio" name="myRadio" onclick="handleClick(this)" value="providers" checked> All</label>
@@ -42,8 +48,15 @@
 <svg name="svg" id="svg" width="1300" height="5500"></svg>
 <svg name="svg1" id="svg1" width="960" height="1060"></svg>
 </body>
-<script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+<!-- jQuery library -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+
+<!-- D3JS library -->
 <script src = "https://d3js.org/d3.v4.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
 <script src="./js/chart-interactive.js"></script>
 
 </html>
