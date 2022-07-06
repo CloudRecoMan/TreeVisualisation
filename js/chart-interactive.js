@@ -4,10 +4,10 @@ var svg = d3.select("svg"),
     g = svg.append("g").attr("transform", "translate(100,0)");
 
 var tree = d3.tree()
-    .size([height - 400, width - 300]);
+    .size([height, width - 600]);
 
 var cluster = d3.cluster()
-    .size([height, width - 350]);
+    .size([height, width - 700]);
 
 var stratify = d3.stratify()
     .parentId(function (d) { return d.id.substring(0, d.id.lastIndexOf(".")); });
