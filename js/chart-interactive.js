@@ -31,10 +31,10 @@ function handleClick(myRadio) {
         g = svg.append("g").attr("transform", "translate(100,0)");
 
     tree = d3.tree()
-        .size([height - 400, width - 300]);
+        .size([height, width - 600]);
 
     cluster = d3.cluster()
-        .size([height, width - 350]);
+        .size([height, width - 700]);
 
     stratify = d3.stratify()
         .parentId(function (d) { return d.id.substring(0, d.id.lastIndexOf(".")); });
